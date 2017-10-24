@@ -1,0 +1,34 @@
+
+		**************************************************************************************************
+		*				MIND READER FUNNY GAME						 *
+		**************************************************************************************************
+		*												 *
+		*	How to Play::										 *
+		*												 *
+		*	--> Choose any two digit number, add together both digits				 *
+		*	    and then subtract the total from you origina number.                                 *
+		*												 *
+		*	--> When you have the final number look in the table and find the relevant symbol.	 *
+		*	    Concentrate on the symbol and when you have it clearly in your mind press Enter 	 *
+		*	    and it will show you the symbol you are thinking of..				 *
+		*												 *
+		*	--> For exp: if you choose 34: 3+4=7. 34 minus 7 will give you your answer		 *
+		*												 *
+		**************************************************************************************************
+	
+													Yours CPK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLEASE ENTER ANY KEY TO CONTINUE:: 
